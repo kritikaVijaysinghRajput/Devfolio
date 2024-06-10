@@ -207,14 +207,13 @@ const Index = () => {
       >
         <div className="  flex flex-wrap md:gap-6 gap-4 items-center justify-center   text-7xl  font-black ">
           <p className="text-center bg-gradient-to-r from-blue-600 to-violet-600 bg-clip-text text-transparent  flex justify-center font-black text-[5vh] md:text-[18vh] happy-font">
-            Building
+            Building the
           </p>
           <p
-            className="flex items-center  text-center justify-center font-black text-[5vh] md:text-[20vh]"
-            style={{ fontFamily: "Pilowlava" }}
+            className="flex items-center justify-center font-black text-[5vh] md:text-[20vh]"
+            style={{ fontFamily: "'Sacramento', cursive" }}
           >
-            Code
-            <IoFlowerOutline className=" text-pink-500" />,
+            Code <IoFlowerOutline className="text-pink-500" />,
           </p>
           <p className=" text-center  flex justify-center font-black text-[5vh]   md:text-[20vh]">
             With

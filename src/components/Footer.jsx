@@ -5,33 +5,27 @@ const Footer = () => {
     {
       id: "linkdin",
       title: "LinkedIn",
-      url: "https://www.linkedin.com/in/harshkhavale11/",
+      url: "https://www.linkedin.com/in/kritika-rajput/",
       icon: <LinkedIn />,
     },
     {
       id: "github",
       title: "GitHub",
-      url: "https://github.com/harshkhavale",
+      url: "https://github.com/kritikaVijaysinghRajput",
       icon: <GitHub />,
     },
     {
       id: "email",
       title: "Gmail",
-      url: "harshkhavale1102@gmailcom",
+      url: "kritikarajput203@gmailcom",
       icon: <Email />,
-    },
-    {
-      id: "X",
-      title: "X",
-      url: "https://twitter.com/HarshKhavale",
-      icon: <X />,
     },
   ];
   return (
     <div className="relative flex justify-center gap-4 items-center p-2">
       <div>
         <p className="font-bold md:text-xl text-sm happy-font">
-          harshkhavale@2024
+          kritikarajput@2024
         </p>
       </div>
       <div className="bg-current h-8 p-1"></div>
